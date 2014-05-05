@@ -6,13 +6,13 @@ pygments:         true
 permalink:        pretty
 
 # Setup
-title:            Poole
-tagline:          The Jekyll Butler
-description:      Base theme for Jekyll themes by @mdo.
-url:              http://getpoole.com
+title:            Diego Mesa
+tagline:          an academic blog
+description:
+url:              http://diego898.github.io
 
 author:
-  name:           Mark Otto
+  name:           Diego Mesa
   url:            https://twitter.com/mdo
 
 paginate:         1
@@ -21,4 +21,9 @@ paginate:         1
 version:          1.0.0
 
 github:
-  repo:           https://github.com/poole/poole
+  repo:           https://github.com/diego898/diego898.github.io
+
+# This is the list of pages to incldue in the header of the website.
+pages_list:
+  About: '/about/'
+  Archive: '/archive/'
