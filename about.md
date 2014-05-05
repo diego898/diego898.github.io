@@ -5,9 +5,9 @@ title: About
 
 ![[My wife and I at La Jolla Shores beach]](/assets/diego.jpg)
 
-I am a graduate student at the University of California: San Diego's department of
-[Bioengineering](http://be.ucsd.edu/) in the  [Neural Interaction Lab](coleman.ucsd.edu/)
-working on developing theoretical and numerical  techniques to analyze (neural) data.
+I am a graduate student in [Bioengineering](http://be.ucsd.edu/) at the
+[University of California: San Diego](http://ucsd.edu/) in the  [Neural Interaction Lab](coleman.ucsd.edu/)
+working on developing theoretical and numerical techniques to analyze (neural) data.
 I love working in and learning about information theory, statistics, probability,
 neural modeling, and optimization.
 
