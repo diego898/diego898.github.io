@@ -1,9 +1,9 @@
 ---
 layout: page
 title: Topics of Interest
+published: true
 ---
 
-# Topics of Interest
 These are some (contiously updated) notes/resources on the topics/concepts that I find intellectually stimulating.
 
 ## Algorithmic Information Theory
