@@ -1,5 +1,10 @@
+---
+layout: page
+title: Topics of Interest
+---
+
 # Topics of Interest
-These are some (contiously updated) notes/resources on the topics/concepts that I find intellectually stimulating. 
+These are some (contiously updated) notes/resources on the topics/concepts that I find intellectually stimulating.
 
 ## Algorithmic Information Theory
 
@@ -9,6 +14,6 @@ These are some (contiously updated) notes/resources on the topics/concepts that 
 
 ## Pearl Causality
 
-## Physical Interpretation of Information 
+## Physical Interpretation of Information
 
 ### Thermodynamics of Information
