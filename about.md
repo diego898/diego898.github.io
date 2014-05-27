@@ -12,4 +12,7 @@ I love working in and learning about information theory, statistics, probability
 neural modeling, and optimization.
 
 Before becoming a graduate student at UCSD I was an undergrad in
-[CompEng](http://www.eng.ufl.edu/) at the [University of Florida](http://www.ufl.edu/).
+[Computer Engineering](http://www.eng.ufl.edu/) at the [University of Florida](http://www.ufl.edu/).
+
+Go Gators!
+![[Go Gators!]](/assets/gators.jpg)
