@@ -2,6 +2,7 @@
 layout: post
 title: Constructor Theory
 published: true
+comments: true
 tags:
 - ia
 ---
