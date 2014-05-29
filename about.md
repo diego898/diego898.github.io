@@ -16,3 +16,7 @@ Before becoming a graduate student at UCSD I was an undergrad in
 
 Go Gators!
 ![[Go Gators!]](/assets/gators.jpg)
+
+
+
+**Note:** If you use a browser extension like [HTTPS Everywhere](https://www.eff.org/https-everywhere) math might not render properly. You have to "allow unsafe script" on this site for it show up.
