@@ -24,6 +24,6 @@ github:
 # This is the list of pages to incldue in the header of the website.
 pages_list:
   About: '/about/'
-  IA: '/ia/'
-  ToI: '/toi/'
+  Articles: '/ia/'
+  Topics: '/toi/'
   Archive: '/archive/'
