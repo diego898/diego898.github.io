@@ -7,6 +7,8 @@ tags:
 - ia
 ---
 
+![[Space-Time]](/assets/space-time.png)
+
 My **favorite** living thinker [Scott Aaronson](http://www.scottaaronson.com/) maintains a blog called [Shtetl-Optimized](http://www.scottaaronson.com/blog/) which I love reading. A **large** percentage of my future posts will just be comtemplating his posts! The one Im currently working on is called ["Time: Different from Space"](http://www.scottaaronson.com/blog/?p=368). I came across it listed as a reference in his *fantastic* paper called ["Why Philosophers Should Care About Computational Complexity"](http://arxiv.org/abs/1108.1791) (blog post to follow for that paper!).
 
 Scott wrote this post as his entry into the Foundational Questions Institute [(FQXi)](http://www.fqxi.org/) "The Nature of Time" competition. To put it simply (deceptively so), the article explains how because of relativity, people have learned to think of time as being "another spatial dimension". We have $x$,$y$,$z$ and $t$. The laws of physics work in any direction on *any* axis (forward or backward in time - see a future post about what gives time its foward flow!). However, coming from a computational complexity/information perspective Scott argues that time is fundamentally different from space.
@@ -28,3 +30,5 @@ Im spending more and more time thinking about computability, and complexity (the
 
 
 *Note:* This post (and most of the ones to follow) is a combination of paraphrasing, copy/pasting, and my own thoughts/questions.
+
+Image Credit: Wikipedia article on space-time [[link]](http://en.wikipedia.org/wiki/Spacetime)
