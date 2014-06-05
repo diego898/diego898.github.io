@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Time Flow = Information Flow?
+title: Time/Information Flow
 published: true
 comments: true
 tags:
