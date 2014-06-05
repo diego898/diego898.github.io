@@ -16,6 +16,7 @@ Side note: Microsoft's [Project Tuva](http://research.microsoft.com/apps/tools/t
 And finally, onto the Quanta article: ["Times Arrow Traced to Quantum Source"](http://www.simonsfoundation.org/quanta/20140416-times-arrow-traced-to-quantum-source/). The article explains recent work by quantum theorists linking "the tendency for systems to reach equilibrium" (aka the flow of time) to quantum entanglement - that thing Einstein famously called "spooky action at a distance". Before diving into it, Ill give my **O**ne **S**entence **S**ummary (**OSS**): Systems reach equilibrium because their state becomes entangled with that of its surrounding system - the information about its state "diffuses" out and becomes part of the state of the system.
 
 Whoa! So at this point, we need to clarify (or rather make sure the article does/did and we understand them):
+
 * What is entanglement? (explain to me like I'm not a theoretical physics PhD please)
 * Where does information come into play and how does it diffuse?
 
