@@ -13,7 +13,7 @@ paginate:         1
 baseurl:          /
 author:
   name:           Diego Mesa
-  url:            http://diego898.github.io
+  url:            http://diego898.github.io/
   email:          diego898@gmail.com
 
 # Custom vars
