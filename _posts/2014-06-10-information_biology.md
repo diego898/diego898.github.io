@@ -62,4 +62,4 @@ Then comes the real knockout punch, my favorite sentence in the entire article:
 
 *Note:* This post (and most of the ones to follow) is a combination of paraphrasing, copy/pasting, and my own thoughts/questions.
 
-[Image Credit: All images were shamelessly taken from the original Nautilus article](http://nautil.us/issue/7/waste/nature-the-it-wizard)
+Image Credit: *All* images were *shamelessly* taken from the original [Nautilus article](http://nautil.us/issue/7/waste/nature-the-it-wizard)
