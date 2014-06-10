@@ -22,6 +22,7 @@ What a great quote! Conveniently also a fantastic **O.S.S.**!
 Order, complexity, computation, information. These are the kinds of words that engineers use to describe abstract systems, and yet here we are talking about *life* in this way. It may seem strange, but in fact this kind of language is sweeping through biology! Increasingly scientists are talking about the flow of "information"; not just from one generation to the next, but from one piece of the body to another! This article not only looks at how awesome that is, but the striking **efficiency** with which biology performs these "computations"! It gives three examples, but we'll look at two:
 
 ### DNA
+
 ![[DNA]](/assets/fly-dna.png)
 
 >Not only does DNA store information at a density per unit volume exceeding any other known medium, it can achieve one quarter of the maximum information density allowed by the laws of physics (set by the entropy of a black hole). It’s so dense that all the world’s digital data could be stored in a dot of DNA the weight of eight paper clips.
@@ -36,6 +37,7 @@ Quick side note here: It is things like this that lend credence to the idea that
 
 
 ### The Brain
+
 ![[Brain]](/assets/brain.png)
 
 The article then goes on to look at the brain, and touches on neural communication, signaling, and coherence. Here I feel the article fell a little short, possibly because I'm much more familiar with this area then the previous.
