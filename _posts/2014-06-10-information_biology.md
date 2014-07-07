@@ -19,7 +19,7 @@ Today we have a (one of *many*) **fantastic** article from my favorite science m
 
 What a great quote! Conveniently also a fantastic **O.S.S.**!
 
-<a href="{{ site.baseurl }}{{ post.url }}">Read More</a>
+[Read More...]({{ site.baseurl }}{{ post.url }})
 <!-- more -->
 
 Order, complexity, computation, information. These are the kinds of words that engineers use to describe abstract systems, and yet here we are talking about *life* in this way. It may seem strange, but in fact this kind of language is sweeping through biology! Increasingly scientists are talking about the flow of "information"; not just from one generation to the next, but from one piece of the body to another! This article not only looks at how awesome that is, but the striking **efficiency** with which biology performs these "computations"! It gives three examples, but we'll look at two:
