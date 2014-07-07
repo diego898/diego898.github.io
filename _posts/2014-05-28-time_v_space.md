@@ -13,6 +13,8 @@ My **favorite** living thinker [Scott Aaronson](http://www.scottaaronson.com/) m
 
 Scott wrote this post as his entry into the Foundational Questions Institute [(FQXi)](http://www.fqxi.org/) "The Nature of Time" competition. To put it simply (deceptively so), the article explains how because of relativity, people have learned to think of time as being "another spatial dimension". We have $x$,$y$,$z$ and $t$. The laws of physics work in any direction on *any* axis (forward or backward in time - see a future post about what gives time its foward flow!). However, coming from a computational complexity/information perspective Scott argues that time is fundamentally different from space.
 
+<!-- more -->
+
 He starts out explaining how even in the formalism of relativity, time behaves differently from space. "In special relativity, the invariant distance between two points $p$ and $q$ - meaning the real physical distance, the distance measure that doesn’t depend on which coordinate system we happen to be using - is called the **interval**.  If the point $p$ has coordinates $(x,y,z,t)$ (in any observer’s coordinate system), and the point $q$ has coordinates $(x’,y’,z’,t’)$, then the interval between $p$ and $q$ equals:"
 
 $$(x-x’)^2+(y-y’)^2+(z-z’)^2-(t-t’)^2$$
