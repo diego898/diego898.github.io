@@ -16,4 +16,4 @@ The 5 field medalists were just announced, including the first female medalist! 
 * **Manjul Bhargava** - The Musical, Magical Number Theorist [[link]](http://www.simonsfoundation.org/quanta/20140812-the-musical-magical-number-theorist/)
 * **Martin Hairer** - In Noisy Equations, One Who Heard Music [[link]](http://www.simonsfoundation.org/quanta/20140812-in-mathematical-noise-one-who-heard-music/)
 * **Maryam Mirzakhani** - A Tenacious Explorer of Abstract Surfaces [[link]](http://www.simonsfoundation.org/quanta/20140812-a-tenacious-explorer-of-abstract-surfaces/)
-* **Subhash Khott** [[link]](http://www.simonsfoundation.org/quanta/20140812-a-grand-vision-for-the-impossible/)
+* **Subhash Khott** - A Grand Vision for the Impossible [[link]](http://www.simonsfoundation.org/quanta/20140812-a-grand-vision-for-the-impossible/)
