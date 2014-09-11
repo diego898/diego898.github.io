@@ -17,3 +17,5 @@ The 5 field medalists were just announced, including the first female medalist! 
 * **Martin Hairer** - In Noisy Equations, One Who Heard Music [[link]](http://www.simonsfoundation.org/quanta/20140812-in-mathematical-noise-one-who-heard-music/)
 * **Maryam Mirzakhani** - A Tenacious Explorer of Abstract Surfaces [[link]](http://www.simonsfoundation.org/quanta/20140812-a-tenacious-explorer-of-abstract-surfaces/)
 * **Subhash Khott** - A Grand Vision for the Impossible [[link]](http://www.simonsfoundation.org/quanta/20140812-a-grand-vision-for-the-impossible/)
+
+**Update**: The Guardian published a great article explaining the work of each recipient! [[link]](http://www.theguardian.com/science/alexs-adventures-in-numberland/2014/aug/13/fields-medals-2014-maths-avila-bhargava-hairer-mirzakhani?CMP=twt_gu&commentpage=1)
