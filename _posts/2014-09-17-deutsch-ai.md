@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Post title
+title: David Deutsch on A.I.
 published: true
 comments: true
 tags:
