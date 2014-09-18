@@ -8,12 +8,12 @@ permalink:        pretty
 # Setup
 title:            Diego Mesa
 tagline:          graduate student
-url:              http://diego898.github.io/
+url:              https://diego898.github.io/
 paginate:         3
-baseurl:          http://diego898.github.io/
+baseurl:          https://diego898.github.io/
 author:
   name:           Diego Mesa
-  url:            http://diego898.github.io/
+  url:            https://diego898.github.io/
   email:          diego898@gmail.com
 
 # Custom vars
