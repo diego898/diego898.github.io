@@ -21,6 +21,6 @@ github:
 # This is the list of pages to incldue in the header of the website.
 pages_list:
   About: '/about/'
-  Publications: '/pub/'
-  CV: '/cv/'
+  Publications: '/publications/'
+  CV: '/cv.pdf'
   Blog: '/posts/'
