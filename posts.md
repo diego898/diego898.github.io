@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Archive
+title: Blog Posts
 ---
 
 The following are posts about publications, updates, and interesting articles I've come across with some brief commentary.
