@@ -1,29 +1,26 @@
-# Dependencies
-markdown:         kramdown
-pygments:         true
-
 # Permalinks
 permalink:        pretty
+relative_permalinks: true
 
 # Setup
 title:            Diego Mesa
-tagline:          graduate student
+tagline:          PhD Candidate
 url:              https://diego898.github.io/
 paginate:         3
 baseurl:          https://diego898.github.io/
 author:
   name:           Diego Mesa
-  url:            https://diego898.github.io/
-  email:          diego898@gmail.com
+  url:            https://coleman.ucsd.edu
+  email:          damesa@ucsd.edu
 
 # Custom vars
 version:          1.0.0
 github:
-  repo:           https://github.com/diego898/diego898.github.io
+  repo:           https://github.com/poole/poole
 
 # This is the list of pages to incldue in the header of the website.
 pages_list:
   About: '/about/'
-  Articles: '/ia/'
-  Topics: '/toi/'
-  Archive: '/archive/'
+  Publications: '/publications/'
+  CV: '/assets/cv.pdf'
+  Blog: '/posts/'
