@@ -92,7 +92,7 @@ As usual, I can't recommend the article enough. Please give it a read!
 
 *Note:* This post (and most of the ones to follow) is a combination of paraphrasing, copy/pasting, and my own thoughts/questions.
 
-[Image Credit](http://nautil.us/issue/9/time/haunted-by-his-brother-he-revolutionized-physics)
+[Image Credit: Nautilus Article](http://nautil.us/issue/9/time/haunted-by-his-brother-he-revolutionized-physics)
 
 **P.S.**
 Interestingly enough and somewhat unsurprising, I just learned that his student
