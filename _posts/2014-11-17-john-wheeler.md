@@ -66,6 +66,7 @@ It gets really crazy when Wheeler suggests "scaling that up":
 > the light took.
 
 The crazy part:
+
 > Our choice determines which of two mutually exclusive histories
 > the photon lived. We determine its route (or routes) start to finish, right
 > now—despite the fact that it began its journey a billion years ago.
