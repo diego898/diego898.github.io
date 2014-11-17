@@ -1,6 +1,6 @@
 ---
 layout: post
-title: We Create the Past: John A. Wheeler
+title: John A. Wheeler - The Nature of Time
 published: true
 comments: true
 tags:
