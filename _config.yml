@@ -22,5 +22,5 @@ github:
 pages_list:
   About: '/about/'
 #  Publications: '/publications/'
-  CV: '/assets/cv.pdf'
+#  CV: '/assets/cv.pdf'
   Blog: '/posts/'
