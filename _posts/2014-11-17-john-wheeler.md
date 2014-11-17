@@ -29,6 +29,7 @@ evolution of the *entire* universe, they found themselves unable to account for
 the flow of time, for how could the "clock" tick outside of the universe itself?
 
 He sought an answer in another mystery: quantum-measurement.
+
 > when an observer makes a measurement, he doesn’t measure something that
 > already exists in the world. Instead, his measurement somehow brings that very
 > thing into existence.
@@ -73,14 +74,14 @@ The crazy part:
 
 ![[image]](/assets/mind-blown.gif)
 
-**WHAT?!** My head hurts just reading that sentence again! The crazy part is
-that this experiment was actually done using mirrors on the moon (the first of
-which was set down by Neil Armstrong in 1969), and the results where just as he predicted!
+**WHAT?!** Thats absolutely mind blowing! Even crazier is that this experiment
+was *actually* done using mirrors on the moon (the first of which was set down by
+Neil Armstrong in 1969), and the results where just as he predicted!
 
-> Time as we once knew it does not exist; past does not come indelibly before future.
+> **Time as we once knew it does not exist; past does not come indelibly before future.**
 
 And so we're left with the conclusion that quantum measurement allows observers
-in the present to *create* the past. But how?
+in the present to *create* the past. **But how?**
 
 As usual, I can't recommend the article enough. Please give it a read!
 
