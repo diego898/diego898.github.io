@@ -13,7 +13,7 @@ Articles I've blogged about:
   {% endfor %}
 {% endfor %}
 
-Articles I've enjoyed (long list - those in bold are **highly** recommended:
+Articles I've enjoyed (long list - those in bold are **highly** recommended):
 
   * **Ingenious: Scott Aaronson** - From computational complexity to quantum mechanics. [[link]](http://nautil.us/issue/21/information/ingenious-scott-aaronson)
   * **The Man Who Tried to Redeem the World with Logic**: Walter Pitts rose from the streets to MIT, but couldn’t escape himself. [[link]](http://nautil.us/issue/21/information/the-man-who-tried-to-redeem-the-world-with-logic)
