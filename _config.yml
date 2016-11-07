@@ -1,6 +1,5 @@
 # Permalinks
-permalink:        pretty
-relative_permalinks: true
+permalink:           pretty
 
 # Setup
 title:            Diego Mesa
@@ -8,20 +7,36 @@ tagline:          PhD Candidate
 url:              https://diego898.github.io/
 paginate:         3
 baseurl:          https://diego898.github.io/
+
+# About/contact
 author:
   name:           Diego Mesa
   url:            https://coleman.ucsd.edu
   email:          damesa@ucsd.edu
 
-# Custom vars
-version:          1.0.0
-github:
-  repo:           https://github.com/poole/poole
+# Assets
+#
+# We specify the directory for Jekyll so we can use @imports.
+sass:
+  sass_dir:          _sass
+  style:            :compressed
 
-# This is the list of pages to incldue in the header of the website.
+
+# Custom vars
+version:             2.0.0
+github:
+  repo:              https://github.com/poole/poole
+
+
+# This is the list of pages to include in the header of the website.
 pages_list:
   About: '/about/'
   Interesting Reads: '/ir/'
-  Publications: '/publications/'
-  CV: '/assets/cv.pdf'
+  # Publications: '/publications/'
+  # CV: '/assets/cv.pdf'
   Blog: '/posts/'
+  
+# Gems
+gems:
+  - jekyll-paginate
+  - jekyll-gist
