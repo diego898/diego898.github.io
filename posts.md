@@ -3,7 +3,7 @@ layout: page
 title: Blog Posts
 ---
 
-The following is a chronological list of the sites posts. The [tags page](/tags/) has them arranged by tags. 
+You can view the sites posts chronologically, or by [tag](/tags/).
 
 {% for post in site.posts %}
   * {{ post.date | date_to_string }} &raquo; [ {{ post.title }} ]({{ post.url }})
