@@ -4,7 +4,8 @@ title: Nature's Information Efficiency
 published: true
 comments: true
 tags:
-- ia
+- information
+- physics
 ---
 
 ![[Nature Information]](/assets/nature-info.png)

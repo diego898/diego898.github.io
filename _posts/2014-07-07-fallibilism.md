@@ -4,7 +4,7 @@ title: Are you (can you be) sure?
 published: true
 comments: true
 tags:
-- ia
+- knowledge
 ---
 
 ![[image]](/assets/fallibilism.png)

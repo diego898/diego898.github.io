@@ -4,7 +4,7 @@ title: Fields Medalists Announced
 published: true
 comments: true
 tags:
-- ia
+- mathematics
 ---
 
 ![[image]](/assets/Maryam-Mirzakhani.jpg)

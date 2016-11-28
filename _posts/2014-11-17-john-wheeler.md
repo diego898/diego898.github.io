@@ -4,7 +4,7 @@ title: John A. Wheeler - The Nature of Time
 published: true
 comments: true
 tags:
-- ia
+- physics
 ---
 
 ![[image]](/assets/john-wheeler.png)

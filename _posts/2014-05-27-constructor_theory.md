@@ -4,7 +4,8 @@ title: Constructor Theory
 published: true
 comments: true
 tags:
-- ia
+- information
+- physics
 ---
 
 ![[Claude Shannon]](/assets/shannon.png)

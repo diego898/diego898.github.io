@@ -4,7 +4,8 @@ title: Time/Information Flow
 published: true
 comments: true
 tags:
-- ia
+- information
+- physics
 ---
 
 ![[Information/Time Flow]](/assets/flow.png)
