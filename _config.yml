@@ -7,6 +7,7 @@ tagline:          PhD Candidate
 url:              https://diego898.github.io/
 paginate:         3
 baseurl:          https://diego898.github.io/
+#excerpt_separator: <!--more-->  # currently using a hard search 
 
 # About/contact
 author:
@@ -31,10 +32,10 @@ github:
 # This is the list of pages to include in the header of the website.
 pages_list:
   About: '/about/'
-  Interesting Reads: '/ir/'
   # Publications: '/publications/'
   # CV: '/assets/cv.pdf'
   Blog: '/posts/'
+  # Interesting Reads: '/ir/'
   
 # Gems
 gems:
