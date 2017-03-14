@@ -16,5 +16,7 @@ I am a PhD Candidate in [Bioengineering](http://be.ucsd.edu/) at the
 Before becoming a graduate student at UCSD I was an undergrad in
 [Computer Engineering](http://www.eng.ufl.edu/) at the [University of Florida](http://www.ufl.edu/). While there, I worked in the Advanced Computing and Information Systems [(ACIS)](https://www.acis.ufl.edu/) Lab developing the infrastructure necessary to enable Brain Machine Interface research.
 
+I believe in [keeping your identity small](http://www.paulgraham.com/identity.html), [writing as an aid to thinking](http://www.paulgraham.com/essay.html), and [writing as you speak](http://www.paulgraham.com/talk.html). 
+
 Go Gators!
 ![[Go Gators!]](/assets/gators.jpg)
