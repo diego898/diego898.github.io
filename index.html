@@ -3,40 +3,16 @@ layout: default
 title: Home
 ---
 
-<div class="posts">
-  {% for post in paginator.posts %}
-  <article class="post">
-    <h1 class="post-title">
-      <a href="{{ site.baseurl }}{{ post.url }}">
-        {{ post.title }}
-      </a>
-    </h1>
-
-    <time datetime="{{ post.date | date_to_xmlschema }}" class="post-date">{{ post.date | date_to_string }}</time>
-    
-    <!-- Split by more -->
-    {% if post.content contains "<!-- more -->" %}
-      {{ post.content | split:"<!-- more -->" | first % }}
-      <a href="{{ site.baseurl }}{{ post.url }}">Read More...</a>
-    {% else %}
-      {{ post.content }}
-    {% endif %}
-
-  </article>
-  {% include comments.html %}
-  {% endfor %}
-</div>
-
-<div class="pagination">
-  {% if paginator.next_page %}
-    <a class="pagination-item older" href="{{ paginator.next_page_path | prepend: site.baseurl }}">Older</a>
-  {% else %}
-    <span class="pagination-item older">Older</span>
-  {% endif %}
-  {% if paginator.previous_page %}
-    <a class="pagination-item newer" href="{{ paginator.previous_page_path | prepend: site.baseurl }}">Newer</a>
-  {% else %}
-    <span class="pagination-item newer">Newer</span>
-  {% endif %}
-</div>
-
+<p><img alt="[My wife and I at La Jolla Shores]" src="/assets/diego.jpg" /></p>
+<p>I am a PhD Candidate in <a href="http://be.ucsd.edu/">Bioengineering</a> at the<br />
+<a href="http://ucsd.edu/">University of California: San Diego</a> in the<br />
+<a href="coleman.ucsd.edu/">Neural Interaction Lab</a>. I&rsquo;m currently working on developing<br />
+ theoretical and numerical techniques to make <em>efficient</em> use of <em>information</em>,<br />
+ with special applications to global health. I love working in and learning<br />
+ about information theory, statistics, probability, optimization and neural<br />
+ modeling.</p>
+<p>Before becoming a graduate student at UCSD I was an undergrad in<br />
+<a href="http://www.eng.ufl.edu/">Computer Engineering</a> at the <a href="http://www.ufl.edu/">University of Florida</a>. While there, I worked in the Advanced Computing and Information Systems <a href="https://www.acis.ufl.edu/">(ACIS)</a> Lab developing the infrastructure necessary to enable Brain Machine Interface research.</p>
+<p>I believe in <a href="http://www.paulgraham.com/identity.html">keeping your identity small</a>, <a href="http://www.paulgraham.com/essay.html">writing as an aid to thinking</a>, and <a href="http://www.paulgraham.com/talk.html">writing as you speak</a>. I believe in <a href="https://lareviewofbooks.org/article/in-praise-of-slowness/">slowing down</a>, and that a thing worth doing, is <a href="http://www.chesterton.org/a-thing-worth-doing/">worth doing badly</a>. I acknowledge the pervasiveness of <a href="http://distill.pub/2017/research-debt/">research debt</a>, and believe in the invaluable role of <a href="http://distill.pub/2017/research-debt/">research distillers</a>.</p>
+<p>Go Gators!<br />
+<img alt="[Go Gators!]" src="/assets/gators.jpg" /></p>
