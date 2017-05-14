@@ -1,0 +1,74 @@
+==================================================================
+https://keybase.io/diego
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://diego898.github.io
+  * I am diego (https://keybase.io/diego) on keybase.
+  * I have a public key with fingerprint 7CF4 DAE5 1F57 A9A6 8293  6D00 F38C 2E33 3F73 B5E7
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "0101bdf12c5d14abe15eb95477ce6f8c7b5edd7e1533b70f7dcc966b2adf5396c9880a",
+            "fingerprint": "7cf4dae51f57a9a682936d00f38c2e333f73b5e7",
+            "host": "keybase.io",
+            "key_id": "f38c2e333f73b5e7",
+            "kid": "0101bdf12c5d14abe15eb95477ce6f8c7b5edd7e1533b70f7dcc966b2adf5396c9880a",
+            "uid": "9e2f105ec9b3f560857b9ee8cd491d00",
+            "username": "diego"
+        },
+        "revoke": {
+            "sig_ids": [
+                "5132adc21c93996a01eeb2fe8097aa4dab3ee17a4b44fae591c765f0e88173d80f"
+            ]
+        },
+        "service": {
+            "hostname": "diego898.github.io",
+            "protocol": "https:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1494792690,
+    "expire_in": 157680000,
+    "prev": "c0d57d49c82e29c897bc13497e58a3fea604a5266a38841557f33780db943b3c",
+    "seqno": 27,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.70
+Comment: https://keybase.io/crypto
+
+yMJsAnicrZJdaFxFGIY3SU3ZDbEGtAgFbcdUEJd65syZMzNbf9IrNSLGn7aUmm7n
+55vdk6R71rNnt4aYi2ISwQiKwVoKgim5CAix9aKxUn9S7E1FMIFisRZb8EZpUYtS
+SFGcExW88NK5mGHmvN/zvfOe+by7I1doW9y8/UTXxI9R2xdLN5q5PXeeuj6GVGxG
+UWkMDcPaAiMGGml5ODKohDzsYWUs9jU1OJAKMAUlaMCYhtByzRQFY5g7JkQxzzKj
+tQhD5UtjKRGhFpx7EhWRjWoVSOpJVEsdlmkbGAkUW8qkkCH3BQmN51nCtQ+EEMuI
+IzNXWI0bWYUzp2QDtkWxO3Ob8pq9/9D/z76bazgBvsUeBS0UsTT0OGVKAHBtAoGd
+70zYgKQmD4BTmwgqMRovogRa8TBkoTaiinPcQKW9iGLiumgfa0GECKWHAZRvgXuC
+SeliUQQAMxmoILAuI4E1C6n1gHPMiOGeRYOO7dq1Ir0GzyL6d2su+LZKlFab6q+4
+6kmcxjoecd+raVpvlDJv6Wg9KzgIqvw3qqyimnG/yVW0IGlEcQ2VsFPqNMrYOBAB
+E34ovCKCF+tRAuUoU1AWcs+NrA+0HFJ7hjIXjOY++G4WTGlMAsGAckksyNALJPXD
+UBLOA0wps4Qw7hklAqKIRtnlXqjFqOQz51NWHNPlV5NpMwE0fuaz59fl2gq5zlva
+s/ebK+Rv++dVtzasX23fsfv9geUT30xsv+e5R6d29/UuLe889vB90/mVocVrXVsX
+bt9cODJ577mO8vSvg08f6p8ZWemcWv6FmaO/tQ1d7vuo/e7vN27a1D3Z0zNe+3Rm
+bP/q3q4dXZ2vnk+aX14ql77b90PpTE8xWjzI7tjy+DtXa6/1X6/OPhQMFgYvQfH0
+enTcVJ9Cr/Q9gNoXNvy+f/782Y+Xv77gn5Sw+tWuyS3dA1fea87dnFg5fuqn5jl+
+1x+nn/n26MlnbfrYbOHtacbenMsfXreEigdu/iy7hy++9fIbAw8enp/deOzDq08s
+DS3mR7c+2dF6ZGa29yWjbh2ovjvHXr+Rv3Bkz8Vr/Z8sHBq/v3fqg/k/AZoDVcs=
+=BELU
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/diego
+
+==================================================================
