@@ -5,13 +5,13 @@ title: About
 
 ![[My wife and I at La Jolla Shores]](/assets/diego.jpg)
 
-I am a PhD Candidate in [Bioengineering](http://be.ucsd.edu/) at the
+
+I currently a Postdoctoral Researcher at [Vanderbilt University](http://www.vanderbilt.edu/), jointly hosted in the [Department of Electrical Engineering and Computer Science](https://engineering.vanderbilt.edu/eecs/) in the lab of [Dr. Eugene Vorobeychik](http://vorobeychik.com/) and in the [Department of Biomedical Informatics](https://medschool.vanderbilt.edu/dbmi/) in the lab of [Dr. Thomas Lasko](https://medschool.vanderbilt.edu/dbmi/person/thomas-lasko-md-phd). I love working in and learning about information theory, statistics,
+probability, optimization and neural modeling.
+
+I received my PhD in [Bioengineering](http://be.ucsd.edu/) at the
 [University of California: San Diego](http://ucsd.edu/) in the
-[Neural Interaction Lab](coleman.ucsd.edu/). I'm currently working on developing
- theoretical and numerical techniques to make *efficient* use of *information*,
- with special applications to global health. I love working in and learning
- about information theory, statistics, probability, optimization and neural
- modeling.
+[Neural Interaction Lab](coleman.ucsd.edu/) where I was working on developing theoretical and numerical techniques to make *efficient* use of *information*, with special applications to global health. 
 
 Before becoming a graduate student at UCSD I was an undergrad in
 [Computer Engineering](http://www.eng.ufl.edu/) at the [University of Florida](http://www.ufl.edu/). While there, I worked in the Advanced Computing and Information Systems [(ACIS)](https://www.acis.ufl.edu/) Lab developing the infrastructure necessary to enable Brain Machine Interface research.
