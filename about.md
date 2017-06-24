@@ -5,8 +5,7 @@ title: About
 
 ![[My wife and I at La Jolla Shores]](/assets/diego.jpg)
 
-
-I currently a Postdoctoral Researcher at [Vanderbilt University](http://www.vanderbilt.edu/), jointly hosted in the [Department of Electrical Engineering and Computer Science](https://engineering.vanderbilt.edu/eecs/) in the lab of [Dr. Eugene Vorobeychik](http://vorobeychik.com/) and in the [Department of Biomedical Informatics](https://medschool.vanderbilt.edu/dbmi/) in the lab of [Dr. Thomas Lasko](https://medschool.vanderbilt.edu/dbmi/person/thomas-lasko-md-phd). I love working in and learning about information theory, statistics,
+I'm currently a Postdoctoral Researcher at [Vanderbilt University](http://www.vanderbilt.edu/), jointly hosted in the [Department of Electrical Engineering and Computer Science](https://engineering.vanderbilt.edu/eecs/) in the lab of [Dr. Eugene Vorobeychik](http://vorobeychik.com/) and in the [Department of Biomedical Informatics](https://medschool.vanderbilt.edu/dbmi/) in the lab of [Dr. Thomas Lasko](https://medschool.vanderbilt.edu/dbmi/person/thomas-lasko-md-phd). I love working in and learning about information theory, statistics,
 probability, optimization and neural modeling.
 
 I received my PhD in [Bioengineering](http://be.ucsd.edu/) at the
