@@ -5,8 +5,8 @@ permalink:           pretty
 title:            Diego Mesa
 tagline:          PhD Candidate
 url:              https://diego898.github.io/
-paginate:         3
-baseurl:          https://diego898.github.io/
+# paginate:         3
+# baseurl:          
 #excerpt_separator: <!--more-->  # currently using a hard search 
 
 # About/contact
@@ -26,7 +26,7 @@ sass:
 # Custom vars
 version:             2.0.0
 github:
-  repo:              https://github.com/poole/poole
+  # repo:              https://github.com/poole/poole
 
 
 # This is the list of pages to include in the header of the website.
@@ -34,6 +34,7 @@ pages_list:
   # About: '/about/'
   # Publications: '/publications/'
   # CV: '/assets/cv.pdf'
+  Teaching: '/teaching/'
   Blog: '/posts/'
   # Interesting Reads: '/ir/'
   
