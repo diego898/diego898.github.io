@@ -1,0 +1,66 @@
+---
+title: "Diego A. Mesa, PhD"
+
+subtitle: "Assistant Professor of the Practice"
+image: profile.png
+page-layout: full
+about:
+  template: trestles
+  links:
+      - icon: envelope-fill
+        text: Email
+        href: diego.mesa@vanderbilt.edu
+      - icon: github
+        text: Github
+        href: https://github.com/diego898
+      - icon: linkedin
+        text: LinkedIn
+        href: https://www.linkedin.com/in/diego-a-mesa/
+      - icon: twitter
+        text: Twitter
+        href: https://twitter.com/diego898
+      - icon: stack
+        text: Google Scholar
+        href: https://scholar.google.com/citations?user=8SnAElkAAAAJ&hl=en
+
+---
+
+## Technical Interests
+Deep Learning, Information Theory, Theoretical Machine Learning, High Dimensional Bayesian Inference, Optimization, Explainable/Interpretable AI
+
+---
+
+## Experience
+**Assistant Professor of the Practice of Computer Science** || Vanderbilt University
+<br/>
+January 2021 – Present 
+
+
+
+**Postdoctoral Fellow** || Vanderbilt University
+<br/>
+Computer Science and Biomedical Informatics
+<br/>
+January 2018 – December 2019
+
+
+
+**Doctoral Researcher** || University of California, San Diego 
+<br/>
+August 2011 – June 2017
+
+---
+
+## Education
+**University of California, San Diego** || San Diego, CA
+<br/>
+**PhD** in Bioengineering || Aug. 2011 - June 2017
+<br/>
+Emphasis on high-dimensional Bayesian inference, optimal sequential communication and information theory
+
+
+**University of Florida** || Gainesville, FL
+<br/>
+BS || Aug. 2006 - Dec. 2010
+
+---
