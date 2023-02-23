@@ -1,0 +1,34 @@
+project:
+  type: website
+
+website:
+  title: "Diego A. Mesa"
+  favicon: profile.png
+  navbar:
+    left:
+      - text: about
+        href: index.qmd
+      - text: posts
+        href: posts.qmd
+    right:
+      - icon: envelope-fill
+        href: diego.mesa@vanderbilt.edu
+      - icon: github
+        href: https://github.com/diego898
+      - icon: linkedin
+        href: https://www.linkedin.com/in/diego-a-mesa/
+      - icon: twitter
+        href: https://twitter.com/diego898
+      - icon: stack
+        href: https://scholar.google.com/citations?user=8SnAElkAAAAJ&hl=en
+format:
+  html:
+    # theme: flatly
+    theme:
+      light: flatly
+      dark: darkly
+    code-link: true
+    css: styles.css
+
+
+
