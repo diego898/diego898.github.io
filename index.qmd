@@ -27,13 +27,13 @@ about:
 ---
 
 ## About Me
-I'm currently a computer science professor at Vanderbil University, with a passion in Deep Learning. 
+I'm currently a computer science professor at Vanderbil University, with a passion for Deep Learning and its many applications.
 
 I believe in [keeping your identity small](http://www.paulgraham.com/identity.html), [writing as an aid to thinking](http://www.paulgraham.com/essay.html), and [writing as you speak](http://www.paulgraham.com/talk.html). I believe in [slowing down](https://lareviewofbooks.org/article/in-praise-of-slowness/), and that a thing worth doing, is [worth doing badly](http://www.chesterton.org/a-thing-worth-doing/). 
 
-I acknowledge the pervasiveness of [research debt](http://distill.pub/2017/research-debt/), and believe in the **invaluable** role of [research distillers](http://distill.pub/2017/research-debt/).
+I believe in the pervasiveness of [research debt](http://distill.pub/2017/research-debt/), and in the **invaluable** role of [research distillers](http://distill.pub/2017/research-debt/).
 
-Please check out a **rough-draft** of an **interactive** Machine Learning with Python+Numpy textbook I am working on at my [posts page](posts.qmd)
+Please check out a **rough-draft** of an **interactive** Machine Learning with Python+Numpy textbook I am working on at my [posts page](posts.qmd).
 
 ---
 
