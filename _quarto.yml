@@ -6,6 +6,9 @@ project:
 website:
   title: "Diego A. Mesa"
   favicon: profile.png
+  site-url: https://diego898.github.io/
+  description: The personal webiste of Diego A. Mesa
+  twitter-card: true
   navbar:
     left:
       - text: about
