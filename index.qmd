@@ -3,6 +3,7 @@ title: "Diego A. Mesa, PhD"
 
 subtitle: "Assistant Professor of the Practice"
 image: profile.png
+image-width: 15em
 page-layout: full
 about:
   template: trestles

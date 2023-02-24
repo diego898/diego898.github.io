@@ -1,6 +1,8 @@
 project:
   type: website
-
+  resources: 
+    - "*.mp4"
+    
 website:
   title: "Diego A. Mesa"
   favicon: profile.png
