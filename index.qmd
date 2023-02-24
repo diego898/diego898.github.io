@@ -1,7 +1,7 @@
 ---
 title: "Diego A. Mesa, PhD"
 
-subtitle: "Assistant Professor of the Practice"
+subtitle: "Assistant Professor of the Practice <br/> Computer Science || Vanderbilt University"
 image: profile.png
 image-width: 15em
 page-layout: full
@@ -23,6 +23,15 @@ about:
       - icon: stack
         text: Google Scholar
         href: https://scholar.google.com/citations?user=8SnAElkAAAAJ&hl=en
+
+---
+
+## About Me
+I'm currently a computer science professor at Vanderbil University, with a passion in Deep Learning. 
+
+I believe in [keeping your identity small](http://www.paulgraham.com/identity.html), [writing as an aid to thinking](http://www.paulgraham.com/essay.html), and [writing as you speak](http://www.paulgraham.com/talk.html). I believe in [slowing down](https://lareviewofbooks.org/article/in-praise-of-slowness/), and that a thing worth doing, is [worth doing badly](http://www.chesterton.org/a-thing-worth-doing/). 
+
+I acknowledge the pervasiveness of [research debt](http://distill.pub/2017/research-debt/), and believe in the **invaluable** role of [research distillers](http://distill.pub/2017/research-debt/).
 
 ---
 
