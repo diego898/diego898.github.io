@@ -33,6 +33,8 @@ I believe in [keeping your identity small](http://www.paulgraham.com/identity.ht
 
 I acknowledge the pervasiveness of [research debt](http://distill.pub/2017/research-debt/), and believe in the **invaluable** role of [research distillers](http://distill.pub/2017/research-debt/).
 
+Please check out a **rough-draft** of an **interactive** Machine Learning with Python+Numpy textbook I am working on at my [posts page](posts.qmd)
+
 ---
 
 ## Technical Interests
