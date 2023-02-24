@@ -2,7 +2,9 @@
   {
     "listing": "/posts.html",
     "items": [
-      "/posts/nn/nn.html"
+      "/posts/prob/prob-mcmc-gibbs.html",
+      "/posts/nn/nn.html",
+      "/posts/opt/opt.html"
     ]
   }
 ]
