@@ -1,3 +1,1 @@
-this is the repository for the personal webiste of Diego A. Mesa:
-
-diego898.github.io
+this is the repository for the personal webiste of Diego A. Mesa: https://diego898.github.io/
