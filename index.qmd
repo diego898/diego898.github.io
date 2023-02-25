@@ -33,7 +33,7 @@ I believe in [writing as an aid to thinking](http://www.paulgraham.com/essay.htm
 
 I believe in the pervasiveness of [research debt](http://distill.pub/2017/research-debt/), and in the **invaluable** role of [research distillers](http://distill.pub/2017/research-debt/).
 
-Please check out a **rough-draft** of an **interactive** Machine Learning with Python+Numpy textbook I am working on at my [posts page](posts.qmd).
+Please check out a working draft of an **interactive** Machine Learning with Python+Numpy textbook I am working on at my [posts page](posts.qmd).
 
 ---
 
