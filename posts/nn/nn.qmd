@@ -1,6 +1,6 @@
 ---
 title: A Bottom-Up Introduction to Neural Networks
-subtitle: From 1-D Forward propagation to vectorized Backprop and everything inbetween
+subtitle: From 1-D Forward propagation to vectorized Backprop and everything in between
 # author: Diego Mesa
 date: 2023-02-03
 date-modified: 2023-02-23
@@ -35,7 +35,7 @@ In this notebook we will walk through the **forward** and **backward** computati
 
 We will start with a simple 1D network and work our way up to a fully connected neural network of arbitrary width and depth. 
 
-In so doing, we will have to "linear-algebrize" (vectorize) evertthing to make sure its fast and efficient. 
+In so doing, we will have to "linear-algebrize" (vectorize) everything to make sure its fast and efficient. 
 
 This notebook aims to walk through all of these steps **in detail**, and by the end, we will generate the following animation to better understand how a networks **"hidden"** representations evolve through training:
 
@@ -43,7 +43,7 @@ This notebook aims to walk through all of these steps **in detail**, and by the 
 
 ## Resources/Inspiration
 
-This document was influeced **a great deal** by these two **fantastic** resources:
+This document was influenced **a great deal** by these two **fantastic** resources:
 
 * [3blue1brown - Backpropagation calculus](https://www.youtube.com/watch?v=tIeHLnjs5U8)
 * [Michael Nielsen - Neural Networks and Deep Learning - Chapter 2](http://neuralnetworksanddeeplearning.com/chap2.html)

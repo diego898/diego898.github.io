@@ -9,6 +9,7 @@ website:
   site-url: https://diego898.github.io/
   description: The personal webiste of Diego A. Mesa
   twitter-card: true
+  open-graph: true
   navbar:
     left:
       - text: about
