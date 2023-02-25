@@ -361,7 +361,7 @@
     "href": "index.html",
     "title": "Diego A. Mesa, PhD",
     "section": "",
-    "text": "I’m currently a computer science professor at Vanderbil University, with a passion for Deep Learning and its many applications.\nI believe in writing as an aid to thinking, and writing as you speak. I believe in slowing down, and that a thing worth doing, is worth doing badly.\nI believe in the pervasiveness of research debt, and in the invaluable role of research distillers.\nPlease check out a rough-draft of an interactive Machine Learning with Python+Numpy textbook I am working on at my posts page."
+    "text": "I’m currently a computer science professor at Vanderbilt University, with a passion for Deep Learning and its many applications.\nI believe in writing as an aid to thinking, and writing as you speak. I believe in slowing down, and that a thing worth doing, is worth doing badly.\nI believe in the pervasiveness of research debt, and in the invaluable role of research distillers.\nPlease check out a rough-draft of an interactive Machine Learning with Python+Numpy textbook I am working on at my posts page."
   },
   {
     "objectID": "index.html#technical-interests",
@@ -389,6 +389,6 @@
     "href": "posts.html",
     "title": "Diego A. Mesa",
     "section": "",
-    "text": "All publications are available on my Google Scholar. Instead, this page gives rough-draft posts of an interactive Machine Learning with Python+Numpy textbook I am working on.\n\n\n\n\n\n\n\n\n\n  \n\n\n\n\nA Bottom-Up Introduction to Neural Networks\n\n\nFrom 1-D Forward propagation to vectorized Backprop and everything inbetween\n\n\n\n\ntrue\n\n\nneural networks\n\n\nlinear algebra\n\n\nnumpy\n\n\n\n\n\n\n\n\n\n\n\nFeb 3, 2023\n\n\n\n\n\n\n  \n\n\n\n\nAn Introduction to Optimization\n\n\nFrom Gradients, to Stochastic Gradient Descent with Momentum and ADAM and everything inbetween!\n\n\n\n\ntrue\n\n\noptimization\n\n\nnumpy\n\n\n\n\n\n\n\n\n\n\n\nFeb 2, 2023\n\n\n\n\n\n\n  \n\n\n\n\nAn Introduction to Markov Chains, MCMC and The Gibbs Sampler\n\n\nFrom Probability to Markov Chain Monte Carlo and the Gibbs Sampler!\n\n\n\n\ntrue\n\n\nprobability\n\n\nmcmc\n\n\n\n\n\n\n\n\n\n\n\nFeb 1, 2023\n\n\n\n\n\n\nNo matching items"
+    "text": "All publications are available on my Google Scholar. Instead, this page gives a working draft of an interactive Machine Learning with Python+Numpy textbook I am working on.\n\n\n\n\n\n\n\n\n\n  \n\n\n\n\nA Bottom-Up Introduction to Neural Networks\n\n\nFrom 1-D Forward propagation to vectorized Backprop and everything in between\n\n\n\n\ntrue\n\n\nneural networks\n\n\nlinear algebra\n\n\nnumpy\n\n\n\n\n\n\n\n\n\n\n\nFeb 3, 2023\n\n\n\n\n\n\n  \n\n\n\n\nAn Introduction to Optimization\n\n\nFrom Gradients, to Stochastic Gradient Descent with Momentum and ADAM and everything inbetween!\n\n\n\n\ntrue\n\n\noptimization\n\n\nnumpy\n\n\n\n\n\n\n\n\n\n\n\nFeb 2, 2023\n\n\n\n\n\n\n  \n\n\n\n\nAn Introduction to Markov Chains, MCMC and The Gibbs Sampler\n\n\nFrom Probability to Markov Chain Monte Carlo and the Gibbs Sampler!\n\n\n\n\ntrue\n\n\nprobability\n\n\nmcmc\n\n\n\n\n\n\n\n\n\n\n\nFeb 1, 2023\n\n\n\n\n\n\nNo matching items"
   }
 ]
