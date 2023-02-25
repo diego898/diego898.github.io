@@ -18,7 +18,7 @@ website:
         href: posts.qmd
     right:
       - icon: envelope-fill
-        href: diego.mesa@vanderbilt.edu
+        href: mailto:diego.mesa@vanderbilt.edu
       - icon: github
         href: https://github.com/diego898
       - icon: linkedin
@@ -35,6 +35,7 @@ format:
       dark: darkly
     code-link: true
     css: styles.css
+    email-obfuscation: javascript
 
 
 
