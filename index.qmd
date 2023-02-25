@@ -10,7 +10,7 @@ about:
   links:
       - icon: envelope-fill
         text: Email
-        href: diego.mesa@vanderbilt.edu
+        href: mailto:diego.mesa@vanderbilt.edu
       - icon: github
         text: Github
         href: https://github.com/diego898
