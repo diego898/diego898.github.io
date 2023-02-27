@@ -5,10 +5,10 @@ subtitle: From 1-D Forward propagation to vectorized Backprop and everything in 
 date: 2023-02-03
 date-modified: 2023-02-23
 image: figures/nn_train.png
-categories: 
-    - neural networks
-    - linear algebra
-    - numpy
+categories:
+  - neural networks
+  - linear algebra
+  - numpy
 format:
   html:
     toc: true
