@@ -13,7 +13,9 @@ format:
   html:
     toc: true
     toc-title: Contents
-    html-math-method: katex
+    html-math-method:
+        method: mathjax
+        url: "https://cdn.jsdelivr.net/npm/mathjax@4.0.0/tex-mml-chtml.js"
     anchor-sections: true
     smooth-scroll: true
 jupyter:
@@ -265,13 +267,13 @@ We've highlighted the 0th node in our last hidden layer and all of its inputs fr
 We've also named each weight according to the following format:
 
 $$
-w_{\;\color{orange}{\text{current node #}} \;,\; \color{blue}{\text{incoming node #}}}
+w_{\;\color{orange}{\text{current node num.}} \;,\; \color{blue}{\text{incoming node num.}}}
 $$
 
 This may seem a bit counter intuitive at first, as the tendency when reading from left to write is to want to write our weights as:
 
 $$
-w_{\;\color{blue}{\text{incoming node #}} \;,\; \color{orange}{\text{current node #}} }
+w_{\;\color{blue}{\text{incoming node num.}} \;,\; \color{orange}{\text{current node num.}} }
 $$
 
 You absolutely can, but that will result in a bunch of transposes in later equations. To get rid of them now, we will number our weights as we did above. As is typically the case, people make seemingly weird/arbitrary decisions at the front to result in simplifications down the line. 
@@ -438,7 +440,7 @@ Lets perform a **size sanity check**:
 
 So everything works as expected! 
 
-This is why we decided to write our weight matrix to be of size $k \times j$ or $\text{# neurons in prev layer} \times \text{# neurons in current layer}$ instead of the other way around. If we had, we'd need a transpose in the equation above.
+This is why we decided to write our weight matrix to be of size $k \times j$ or $\text{num. neurons in prev layer} \times \text{num. neurons in current layer}$ instead of the other way around. If we had, we'd need a transpose in the equation above.
 
 ---
 
@@ -543,7 +545,7 @@ Typically, we imagine our data matrix such that the first dimension is the `batc
 
 This means **each row** of this matrix, corresponds to **one sample.**
 
-So if our data matrix is of size $\text{batch_size} \times \text{dimension}$, in order for our first layer to calculate correctly, **we have to make the sizes work**! Meaning, our first layer should be: 
+So if our data matrix is of size $\text{batch\_size} \times \text{dimension}$, in order for our first layer to calculate correctly, **we have to make the sizes work**! Meaning, our first layer should be: 
 
 $$
 \mathbf{A}^1 = \sigma(\mathbf{W}^1\mathbf{X}^T + \mathbf{b})
@@ -891,6 +893,8 @@ $$
 \newcommand{\deltal}{\delta^L}
 \newcommand{\deltax}[1]{\delta^{#1}}
 $$
+
+
 
 **Note: Make sure you run this cell!**
 
@@ -1625,7 +1629,9 @@ def backprop_1D():
 Now things are going to get **interesting**! In our simple toy example, we only had one neuron per layer. This means in our resulting equations everything was just scalar values. 
 
 ### Latex definitions
-This cell contains more latex definitions. $
+This cell contains more latex definitions. 
+
+$$
 \newcommand{\j}{{j}}
 \newcommand{\k}{{k}}
 \newcommand{\wjkl}{\color{blue}{w_{\j,\k}^L}}
@@ -1642,7 +1648,9 @@ This cell contains more latex definitions. $
 \newcommand{\dajdzj}{\frac{\color{green}{\partial \ajl}}{\color{orange}{\partial z_j^L}}}
 \newcommand{\dcdaj}{\frac{\dc}{\color{green}{\partial \ajl}}}
 \newcommand{\dcdakx}[1]{\frac{\dc}{\color{green}{\partial \akx{#1}}}}
-$**Note**: remember to run it!
+$$
+
+**Note**: remember to run it!
 
 ### Notation
 
@@ -3605,8 +3613,10 @@ net.weights
 weights
 ```
 
-# Additional Resources
+<!-- # Additional Resources
+
 This implementation follows the details of: 
+
 * http://ufldl.stanford.edu/tutorial/supervised/MultiLayerNeuralNetworks/
 * https://www.youtube.com/watch?v=GlcnxUlrtek&list=PLiaHhY2iBX9hdHaRr6b7XevZtgZRa1PoU&index=4&pbjreload=101
 * https://github.com/stephencwelch/Neural-Networks-Demystified/blob/master/Part%202%20Forward%20Propagation.ipynb
@@ -3614,4 +3624,4 @@ This implementation follows the details of:
 * https://www.youtube.com/watch?v=gl3lfL-g5mA
 * https://news.ycombinator.com/item?id=15782156
 * https://developers-dot-devsite-v2-prod.appspot.com/machine-learning/crash-course/backprop-scroll
-
+ -->

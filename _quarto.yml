@@ -36,6 +36,8 @@ format:
     code-link: true
     css: styles.css
     email-obfuscation: javascript
+    # embed-resources: true
+    # self-contained-math: true
 
 
 

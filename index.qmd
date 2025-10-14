@@ -1,7 +1,7 @@
 ---
 title: "Diego A. Mesa, PhD"
 
-subtitle: "Assistant Professor of the Practice <br/> Computer Science || Vanderbilt University"
+subtitle: "Principal Machine Learning Engineer @ Seekr"
 image: profile.png
 image-width: 15em
 page-layout: full
@@ -10,7 +10,7 @@ about:
   links:
       - icon: envelope-fill
         text: Email
-        href: mailto:diego.mesa@vanderbilt.edu
+        href: mailto:diego898@gmail.com
       - icon: github
         text: Github
         href: https://github.com/diego898
@@ -27,26 +27,32 @@ about:
 ---
 
 ## About Me
-I'm currently a computer science professor at Vanderbilt University, with a passion for Deep Learning and its many applications.
+I'm currently a Principle Machine Learning Engineer at Seekr. I have a passion for technical issues related to AI Research, Engineering, and Safety.
+
 
 I believe in [writing as an aid to thinking](http://www.paulgraham.com/essay.html), and [writing as you speak](http://www.paulgraham.com/talk.html). I believe in [slowing down](https://lareviewofbooks.org/article/in-praise-of-slowness/), and that a thing worth doing, is [worth doing badly](http://www.chesterton.org/a-thing-worth-doing/). 
 
 I believe in the pervasiveness of [research debt](http://distill.pub/2017/research-debt/), and in the **invaluable** role of [research distillers](http://distill.pub/2017/research-debt/).
 
-Please check out a working draft of an **interactive** Machine Learning with Python+Numpy textbook I am working on at my [posts page](posts.qmd).
+An old draft of an **interactive** Machine Learning with Python+Numpy textbook I was working on is available on my [posts page](posts.qmd), as well as more recent thoughts!
 
 ---
 
 ## Technical Interests
-Deep Learning, Information Theory, Theoretical Machine Learning, High Dimensional Bayesian Inference, Optimization, Explainable/Interpretable AI
+LLMs, synthetic data generation, Agent design and orchestration, AI Safety and Alignment, Mechanistic Interpretability, Scalable Oversight, Deep Learning, Information Theory, Theoretical Machine Learning, High Dimensional Bayesian Inference, Optimization
 
 ---
 
 ## Experience
+
+**Principal Machine Learning Engineer** || Seekr
+<br/>
+August 2023 – Present
+
+
 **Assistant Professor of the Practice of Computer Science** || Vanderbilt University
 <br/>
-January 2021 – Present 
-
+January 2020 – August 2023 
 
 
 **Postdoctoral Fellow** || Vanderbilt University
